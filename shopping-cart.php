@@ -88,6 +88,7 @@ $products = $stmt->fetchAll();
     <?php foreach($_SESSION['products'] as $key=>$product):?>
     <tr>
       <td><img src="<?php print $product['image']?>" width="50"></td>
+      "<?php print $product['image']?
       <td><?php print $product['name']?></td>
       <td>$<?php print $product['price']?></td>
       <td><?php print $product['qty']?></td>

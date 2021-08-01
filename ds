@@ -1,0 +1,41 @@
+[33mcommit ef7bb9d39fda57101e0a26f78c38e27cab37ed12[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0.0[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mstagging[m[33m, [m[1;32mdev[m[33m)[m
+Author: Rinto George <mail.rinto@gmail.com>
+Date:   Tue May 23 16:04:38 2017 +0400
+
+    Updated cart total
+
+[33mcommit a9c9a13ccfc8ef37434a98aa70bed221932b4ddf[m
+Author: Rinto George <mail.rinto@gmail.com>
+Date:   Tue May 23 15:59:19 2017 +0400
+
+    Update README.md
+
+[33mcommit 3391486df6f40a29f6f5921b02c267c5698026bf[m
+Author: Rinto George <mail.rinto@gmail.com>
+Date:   Tue May 23 15:58:59 2017 +0400
+
+    Added new line character
+
+[33mcommit 5e7cb5ba991047744cb9cc2b21e67e2fbcb3ecdd[m
+Author: Rinto George <mail.rinto@gmail.com>
+Date:   Tue May 23 15:58:35 2017 +0400
+
+    Added create table  instructions..
+
+[33mcommit 4153e6d69de5c082153f2a446ce205ee39489177[m
+Author: Rinto George <mail.rinto@gmail.com>
+Date:   Tue May 23 15:57:23 2017 +0400
+
+    First commit
+
+[33mcommit 01135cabba30fb37d6ecb0030309e2641395fe96[m
+Author: Rinto George <mail.rinto@gmail.com>
+Date:   Tue May 23 15:55:11 2017 +0400
+
+    Added link to tutorial
+
+[33mcommit 53b65e52e2704aebd3dc956f9fb474d41442e87b[m
+Author: Rinto George <mail.rinto@gmail.com>
+Date:   Tue May 23 15:53:57 2017 +0400
+
+    Initial commit
